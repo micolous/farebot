@@ -1,2 +1,2 @@
 # farebot
-This repository has moved to "metrodroid".
+[This repository has moved](https://github.com/micolous/metrodroid).
